@@ -1,0 +1,5 @@
+function PanggilNama(nama){
+console.log(nama)
+ 	return nama }
+ 	var nama="Rahmat Hidayat"
+ 	PanggilNama(nama)
